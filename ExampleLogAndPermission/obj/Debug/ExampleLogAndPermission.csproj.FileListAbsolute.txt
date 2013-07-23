@@ -1,0 +1,7 @@
+C:\TFS2010-Git\ExampleLogAndPermission\ExampleLogAndPermission\bin\Debug\ExampleLogAndPermission.dll
+C:\TFS2010-Git\ExampleLogAndPermission\ExampleLogAndPermission\bin\Debug\ExampleLogAndPermission.pdb
+C:\TFS2010-Git\ExampleLogAndPermission\ExampleLogAndPermission\obj\Debug\ResolveAssemblyReference.cache
+C:\TFS2010-Git\ExampleLogAndPermission\ExampleLogAndPermission\obj\Debug\ExampleLogAndPermission.dll
+C:\TFS2010-Git\ExampleLogAndPermission\ExampleLogAndPermission\obj\Debug\ExampleLogAndPermission.pdb
+C:\Documents and Settings\Dylan.Huang\桌面\ischool desktop\addmodules\20130723\ExampleLogAndPermission.dll
+C:\Documents and Settings\Dylan.Huang\桌面\ischool desktop\addmodules\20130723\ExampleLogAndPermission.pdb
